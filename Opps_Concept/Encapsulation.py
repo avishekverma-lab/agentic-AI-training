@@ -20,4 +20,4 @@ print("\n************** Bank Account Details **************\n")
 print("Account Owner:", account.owner)
 print("Deposited Amount: ₹" + str(account.get_deposited_amount()))   # 500
 print("Balance in " + account.owner + " account: ₹" + str(account.get_balance()))   # 1500
-print("\n***************************************************\n")
+print("\n****************************************************\n")
